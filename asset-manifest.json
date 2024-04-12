@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Week8/static/css/main.e268cec4.css",
+    "main.js": "/Week8/static/js/main.12210e3f.js",
+    "static/js/453.7cc2c848.chunk.js": "/Week8/static/js/453.7cc2c848.chunk.js",
+    "static/media/realstate.jpg": "/Week8/static/media/realstate.d03920def657605282c8.jpg",
+    "static/media/logo.svg": "/Week8/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Week8/index.html",
+    "main.e268cec4.css.map": "/Week8/static/css/main.e268cec4.css.map",
+    "main.12210e3f.js.map": "/Week8/static/js/main.12210e3f.js.map",
+    "453.7cc2c848.chunk.js.map": "/Week8/static/js/453.7cc2c848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e268cec4.css",
+    "static/js/main.12210e3f.js"
+  ]
+}

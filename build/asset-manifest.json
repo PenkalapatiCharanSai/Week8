@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e268cec4.css",
+    "main.js": "/static/js/main.c1309f80.js",
+    "static/js/453.7cc2c848.chunk.js": "/static/js/453.7cc2c848.chunk.js",
+    "static/media/realstate.jpg": "/static/media/realstate.d03920def657605282c8.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.e268cec4.css.map": "/static/css/main.e268cec4.css.map",
+    "main.c1309f80.js.map": "/static/js/main.c1309f80.js.map",
+    "453.7cc2c848.chunk.js.map": "/static/js/453.7cc2c848.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e268cec4.css",
+    "static/js/main.c1309f80.js"
+  ]
+}
